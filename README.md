@@ -1,4 +1,4 @@
-# Bitcoin-Presentation
+# Bitcoin Presentation
 
 Presentation on [Evaluating Bitcoin as an Open Source Project](/presentation/bitcoin.md), given as part of [Information and Communication Technology Policy and Strategy](http://www.sussex.ac.uk/bmec/internal/departments/spru/pgcourses/2016/L1520T/62854), a course at the [University of Sussex](http://www.sussex.ac.uk/)
 
