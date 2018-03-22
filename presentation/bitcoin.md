@@ -264,7 +264,7 @@ At the time of writing, GitHub had 1,730,452 users with at least 1 follower. The
 
 # Bitcoin Take-up
 
-![](images/bitcoinMine.jpg)
+![](images/Chinese_bitcoin_mine.jpg)
 
 _Source: motherboard.vice.com_
 
