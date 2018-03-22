@@ -3,7 +3,7 @@
 by Steve Huckle and Richard Duffy
 
 (Produced with 100% open source tools, including [reveal.js](https://github.com/hakimel/reveal.js/ "reveal.js").
-Presentation hosted on [Github](https://github.com/glowkeeper/blockchain "Bitcoin Presentation")) 
+Presentation hosted on [Github](https://github.com/glowkeeper/blockchain "Bitcoin Presentation"))
 
 ![](images/bitcoin_digital.jpg)
 
@@ -63,7 +63,7 @@ _Bitcoin Website FAQ_
 <div class="notes">
 Miners get 25 Bitcoins when they mine a block.
 </div>
- 
+
 ## How Is Bitcoin Different From the £?
 
 > + Digital only - No physical currency
@@ -75,8 +75,8 @@ Miners get 25 Bitcoins when they mine a block.
 
 <div class="notes">
 Fiat currency is state backed currency, such as the $ or £.
-</div> 
- 
+</div>
+
 ## Bitcoin Software
 
 + Wallets / Clients (open source)
@@ -130,15 +130,15 @@ Here we define ‘success’ of bitcoin as an open source project:
 + Unique features of Bitcoin
 + Bitcoin 'success' / objectives
 + Our framework
- 
+
 ## Evaluating Open vs Closed Source Software
 
 Open-source has some key differences from closed source software that affect its evaluation:
 
 > + No cost effectiveness / profit margin
-> + No clearly defined targets 
+> + No clearly defined targets
 > + No ‘final version’
- 
+
 ## Evaluation Perspectives
 
 + User (demand side)
@@ -148,7 +148,7 @@ Open-source has some key differences from closed source software that affect its
 
 + Developer (supply side)
 + Two identities merge in open source: Developers = Users
- 
+
 ## Focus of Evaluation
 
 + Product
@@ -160,7 +160,7 @@ Open-source has some key differences from closed source software that affect its
 	+ Online ‘community’ / ecosystem
 	+ Effectiveness / Efficiency of development (rate of bug fixes etc.)
 	+ Degree of concentration (lines of code / developer)
- 
+
 ## Unique Factors When Evaluating Bitcoin
 
 Not a _product_, per se, but new solution for online transactions:
@@ -173,7 +173,7 @@ Not a _product_, per se, but new solution for online transactions:
 
 > + 'Proof on concept' of cryptocurrency and blockchain technology
 > + Value transfer mechanism existing alongside fiat currency
-> + A decentralised currency to replace fiat money 
+> + A decentralised currency to replace fiat money
 
 ## Our Framework
 
@@ -186,7 +186,7 @@ Focusing on **take-up** of the currency and the **process** of development. We w
 
 + Demand side (take up)
 	+ Users over time
-	+ Financial metrics (value, volatility, transaction volume)	
+	+ Financial metrics (value, volatility, transaction volume)
 	+ Other cryptocurrencies and blockchain technologies (impact)
 
 # Bitcoin Development
@@ -217,9 +217,9 @@ GitHub too has processes that define its _Community of Practice_:
 
 ## Bitcoin's Organisation of Practice
 
-Bitcoin has a group of core developers. Contributions are based on the Open Source model of meritocracy. 
+Bitcoin has a group of core developers. Contributions are based on the Open Source model of meritocracy.
 
-Development of Bitcoin Core is relatively concentrated, with 7 developers contributing 69% of the code 
+Development of Bitcoin Core is relatively concentrated, with 7 developers contributing 69% of the code
 
 ![](images/BTCDevelopers.png)
 
@@ -242,8 +242,8 @@ Following is a list of key GitHub statistics:
 
 ## Github Forks
 
-The Bitcoin project is second on page 6, so with ten results per page, Bitcoin is ranked 52nd by _Github Forks_ 
- 
+The Bitcoin project is second on page 6, so with ten results per page, Bitcoin is ranked 52nd by _Github Forks_
+
 ![](images/BitcoinRankingByForks.png)
 
 Those forks have spawned many _altcoins_, or alternatives to Bitcoin, with 669 other cryptocurrencies active as of August 2015. _Source: https://en.wikipedia.org/wiki/List_of_cryptocurrencies_
@@ -258,19 +258,19 @@ Users show appreciation of a project through _GitHub Stars_. The Bitcoin project
 
 ## GitHub Users
 
-At the time of writing, GitHub had 1,730,452 users with at least 1 follower. The Bitcoin user is the 184th most starred. 
+At the time of writing, GitHub had 1,730,452 users with at least 1 follower. The Bitcoin user is the 184th most starred.
 
 ![](images/GitHubRanking.png)
 
 # Bitcoin Take-up
 
-![](images/Chinese_bitcoin _mine.jpg)
+![](images/Chinese_bitcoin_mine.jpg)
 
-_Source: motherboard.vice.com_	
+_Source: motherboard.vice.com_
 
 - - -
 
-## Overview of <br>Bitcoin Take-up 
+## Overview of <br>Bitcoin Take-up
 
 We will look at the take-up of Bitcoin from the following perspectives:
 
@@ -306,7 +306,7 @@ _Source: coinmarketcap.com_
 
 ## Daily Transactions
 
-Bitcoin's total unique transactions is currently around 200,000 per day, valued at around $126 million. 
+Bitcoin's total unique transactions is currently around 200,000 per day, valued at around $126 million.
 
 Current blockchain has a cap of 7 transactions per second (tsp).
 
@@ -322,11 +322,11 @@ The top 5 countries for daily transaction volume in 2013:
 
 | Country | Amount (US$ billion) | %share |
 | ------- | -------------------- | ------ |
-| United Kingdom | 2,726 | 40.9 | 
+| United Kingdom | 2,726 | 40.9 |
 | United States  | 1,263 | 18.9 |  
-| Singapore      | 383   | 5.7  | 
-| Japan          | 374   | 5.6  | 
-| Hong Kong      | 275   | 4.1  | 
+| Singapore      | 383   | 5.7  |
+| Japan          | 374   | 5.6  |
+| Hong Kong      | 275   | 4.1  |
 
 _Source: Reuters_
 
@@ -372,7 +372,7 @@ What demand does decentralised cryptocurrency satisfy?
 > + Money supply outside control of government (libertarianism)
 > + No transaction costs across borders
 > + Trust free system (no need for third parties)
-> + Immune to theft 
+> + Immune to theft
 > + Anonymous
 > + Irreversible transactions (no charge-backs)
 
@@ -385,7 +385,7 @@ What demand does decentralised cryptocurrency satisfy?
 > + Volatility (bubbles)
 > + Internal disputes (Bitcore Core Vs Bitcoin Classic)
 > + Competition (other cryptocurrencies)
-> + Unfamiliar concept 
+> + Unfamiliar concept
 > + Uses very large amount of energy to mine blockchain
 
 # Conclusion
